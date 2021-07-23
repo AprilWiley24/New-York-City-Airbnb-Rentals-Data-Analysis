@@ -8,4 +8,5 @@ To be competitive and successful in their new market, Rent NYC's management has 
 4. What is the distribution of prices among the different room types?   
 5.  What is the average price of rentals for each borough?  
   
-The final presentation can be viewed on [Tableau!](https://public.tableau.com/app/profile/april.wiley/viz/NYCAirbnbRentalsDataAnalysis/NewYorkCityAirbnbRentalsDataAnalysis?publish=yes)  
+The final presentation can be viewed on [Tableau!](https://public.tableau.com/app/profile/april.wiley/viz/NYCAirbnbRentalsDataAnalysis/NewYorkCityAirbnbRentalsDataAnalysis?publish=yes) Please note that the storyboard does not contain every step taken during the analysis - only those relevant to the final results.  
+
